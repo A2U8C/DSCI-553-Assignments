@@ -1,5 +1,0 @@
-{
-    "m1": 19.681728839874268,
-    "m2": 16.189777135849,
-    "reason": "With the help of previous comparison, we can discern that Pyspark is faster than python. This is because Pyspark enables us to execute our program parallely which improves the overall performance of the pyspark program."
-}
